@@ -140,22 +140,13 @@ Não use o exemplo antes de criar o repositório correspondente.
 
 ## `07` — Contribuições
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/JoseDeOliveiraPJ/JoseDeOliveiraPJ/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake de contribuições do GitHub"
+  />
+</p>
 
-  <!--
-  Para ativar a animação da Snake:
-  1. Crie o arquivo .github/workflows/snake.yml
-  2. Copie o workflow mostrado após este README.
-  3. Habilite GitHub Actions no repositório.
-  4. Execute o workflow e publique o branch output.
-  -->
-## 🐍 Snake de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseDeOliveiraPJ/JoseDeOliveiraPJ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseDeOliveiraPJ/JoseDeOliveiraPJ/output/github-contribution-grid-snake.svg">
-  <img alt="Snake de contribuições do GitHub" src="https://raw.githubusercontent.com/JoseDeOliveiraPJ/JoseDeOliveiraPJ/output/github-contribution-grid-snake.svg">
-</picture>
 
 
   <picture>
