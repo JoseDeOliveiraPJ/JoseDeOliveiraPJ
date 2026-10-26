@@ -114,9 +114,12 @@ Não use o exemplo antes de criar o repositório correspondente.
 ## `05` — Atividade
 
 <div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseDeOliveiraPJ&bg_color=0D0D0D&color=E0E0E0&line=8B0000&point=E05252&area=true&area_color=450000&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade do GitHub"/>
-
+  <a href="https://github.com/JoseDeOliveiraPJ">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=JoseDeOliveiraPJ&show_icons=true&theme=dark&hide_border=true&title_color=E05252&icon_color=E05252"
+      alt="Estatísticas do GitHub"
+    />
+  </a>
 </div>
 
 ---
@@ -125,7 +128,9 @@ Não use o exemplo antes de criar o repositório correspondente.
 
 <div align="center">
 
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=JoseDeOliveiraPJ&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Conquistas do GitHub"/>
+  <a href="https://github.com/JoseDeOliveiraPJ?tab=repositories">
+    <img src="https://img.shields.io/badge/Construindo%20minha%20jornada-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Construindo minha jornada"/>
+  </a>
 
 </div>
 
