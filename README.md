@@ -140,13 +140,6 @@ Não use o exemplo antes de criar o repositório correspondente.
 
 ## `07` — Contribuições
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/JoseDeOliveiraPJ/JoseDeOliveiraPJ/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake de contribuições do GitHub"
-  />
-</p>
-
 
 
   <picture>
